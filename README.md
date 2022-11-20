@@ -46,3 +46,4 @@ protoc --go_out=../go --go_opt=paths=source_relative --go-grpc_out=../go --go-gr
 
 # Referenced sites
 * [protobufとgrpcのGoコード生成先ディレクトリの指定を、protocコマンドのオプションで行う](https://zenn.dev/richardimaoka/articles/d4337235114a3b)
+* [作ってわかる！ はじめてのgRPC](https://zenn.dev/hsaki/books/golang-grpc-starting)
